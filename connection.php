@@ -1,5 +1,5 @@
-<?php
+<?php 
 
-$db=mysqli_connect('localhost','root','','parking');
+$db = mysqli_connect('localhost','root','','parking');
 
-?>
+ ?>
